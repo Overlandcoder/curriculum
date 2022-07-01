@@ -6,7 +6,7 @@ You've already done a bit of text-manipulation in our Foundations lessons. This 
 * You'll learn some more text-related CSS properties.
 
 ### Fonts
-In our foundations lesson, we covered changing the `font-family` of an element, but there is some nuance and detail that we left out at the time.
+In our foundations lesson, we covaered changing the `font-family` of an element, but there is some nuance and detail that we left out at the time.
 
 #### The System Font Stack
  If you use the `font-family` property to change to a font like `impact` or `Times New Roman`, and those fonts do not happen to be installed on your user's computer, then a fallback font will be displayed.  If you have not defined a fallback, then the default HTML font will be used, which is often somewhat ugly. For this reason, it's common to see somewhat long stacks of fonts listed on projects. 
